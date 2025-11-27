@@ -1,0 +1,26 @@
+======================================================================
+GARBAGE TRUCK ROUTE PLANNER - OPTIMIZATION SUMMARY REPORT
+======================================================================
+
+1. INITIAL GREEDY SOLUTION
+----------------------------------------------------------------------
+   Total Distance: 39.00
+   Number of Trucks: 2
+   Total Stops: 12
+
+2. AFTER 2-OPT OPTIMIZATION
+----------------------------------------------------------------------
+   Total Distance: 35.79
+   Improvement: 8.24%
+
+3. AFTER SIMULATED ANNEALING
+----------------------------------------------------------------------
+   Total Distance: 29.99
+   Improvement: 23.11%
+
+4. SUMMARY
+----------------------------------------------------------------------
+   Best Method: Simulated Annealing
+   Best Total Distance: 29.99
+   Overall Improvement: 23.11%
+======================================================================
